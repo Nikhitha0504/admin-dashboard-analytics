@@ -62,8 +62,6 @@ Email: admin0405@test1.com
 Password: admin2005
 (Admin credentials are stored in MongoDB)
 
-# Screenshots
-Screenshots of the login page, dashboard, analytics charts, and backend API responses are attached in the submission email.
 
 
 # Real-World Relevance
